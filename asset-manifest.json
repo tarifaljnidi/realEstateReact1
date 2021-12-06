@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/realEstateReact1/static/css/main.14fe4b95.chunk.css",
+    "main.js": "/realEstateReact1/static/js/main.9971c335.chunk.js",
+    "main.js.map": "/realEstateReact1/static/js/main.9971c335.chunk.js.map",
+    "runtime-main.js": "/realEstateReact1/static/js/runtime-main.247cf6c1.js",
+    "runtime-main.js.map": "/realEstateReact1/static/js/runtime-main.247cf6c1.js.map",
+    "static/js/2.a89410e4.chunk.js": "/realEstateReact1/static/js/2.a89410e4.chunk.js",
+    "static/js/2.a89410e4.chunk.js.map": "/realEstateReact1/static/js/2.a89410e4.chunk.js.map",
+    "static/js/3.21e1d005.chunk.js": "/realEstateReact1/static/js/3.21e1d005.chunk.js",
+    "static/js/3.21e1d005.chunk.js.map": "/realEstateReact1/static/js/3.21e1d005.chunk.js.map",
+    "index.html": "/realEstateReact1/index.html",
+    "static/css/main.14fe4b95.chunk.css.map": "/realEstateReact1/static/css/main.14fe4b95.chunk.css.map",
+    "static/js/2.a89410e4.chunk.js.LICENSE.txt": "/realEstateReact1/static/js/2.a89410e4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.247cf6c1.js",
+    "static/js/2.a89410e4.chunk.js",
+    "static/css/main.14fe4b95.chunk.css",
+    "static/js/main.9971c335.chunk.js"
+  ]
+}
