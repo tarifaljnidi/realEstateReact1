@@ -52,7 +52,7 @@ var listingsData = [
       'gym'
     ],
     homeType: 'Studio',
-    image: 'http://media.equityapartments.com/images/q_50/f_auto/fl_lossy/685-28/oak-park-apartment-homes-kitchen'
+    image: 'https://images.justlanded.com/housing_images/Luxembourg/For-Rent_Apartments/New-fully-furnished-studio-very-well-situated/photo/big_scaled_6257337_28690170.jpg'
   },
   {
     address: 'Address 5',
@@ -92,7 +92,90 @@ var listingsData = [
     ],
     homeType: 'Room',
     image: 'https://media.istockphoto.com/photos/modern-residential-buildings-picture-id1225226886?k=20&m=1225226886&s=612x612&w=0&h=7rF48nIZCssb48iArI2L2VaYOWhMWemFcg52NzngXwM='
+  },
+
+  {
+    address: 'Address 8',
+    city: 'City 7',
+    state: 'state 7',
+    rooms: 1,
+    price: 250000,
+    floorSpace: 2000,
+    extras: [
+      'gym',
+      'pool'
+    ],
+    homeType: 'Studio',
+    image: 'https://www.myspace.lu/wp-content/uploads/2018/08/340A6433-1170x648.jpg'
+  },
+  {
+    address: 'Address 9',
+    city: 'City 6',
+    state: 'state 7',
+    rooms: 1,
+    price: 70000,
+    floorSpace: 2000,
+    extras: [
+      'gym',
+     'elevator'
+    ],
+    homeType: 'Room',
+    image: 'https://housinganywhere.imgix.net/room/1756690/cd1864b4-3a2e-4e90-b4f1-9e54cd3f3498.jpg?auto=format&fit=clip&h=300&orient=0&w=490&ixlib=react-9.2.0'
+  },
+  {
+    address: 'Address 10',
+    city: 'City 5',
+    state: 'state 7',
+    rooms: 1,
+    price: 350000,
+    floorSpace: 2000,
+    extras: [
+      'elevator',
+      'pool'
+    ],
+    homeType: 'Apartment',
+    image: 'https://images.pexels.com/photos/129494/pexels-photo-129494.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500'
+  },
+  {
+    address: 'Address 11',
+    city: 'City 4',
+    state: 'state 7',
+    rooms: 1,
+    price: 450000,
+    floorSpace: 2000,
+    extras: [
+      'elevator'
+    ],
+    homeType: 'Single Home',
+    image: 'https://webassetsprdnvrsan.blob.core.windows.net/images/f0b7d0fd-1451-4299-9e86-8b3c83de0a05/desktop/thumbnail'
+  },
+  {
+    address: 'Address 12',
+    city: 'City 3',
+    state: 'state 7',
+    rooms: 1,
+    price: 450000,
+    floorSpace: 2000,
+    extras: [
+      'pool'
+    ],
+    homeType: 'Multi Home',
+    image: 'https://www.rocketmortgage.com/resources-cmsassets/RocketMortgage.com/Article_Images/Large_Images/Stock-Multifamily-Home-Yellow-AdobeStock-233292321-copy.jpeg'
+  },
+  {
+    address: 'Address 13',
+    city: 'City 2',
+    state: 'state 7',
+    rooms: 1,
+    price: 450000,
+    floorSpace: 2000,
+    extras: [
+      'gym'
+    ],
+    homeType: 'Condo',
+    image: 'https://static.straitstimes.com.sg/s3fs-public/styles/article_pictrure_780x520_/public/articles/2019/03/15/colin-co2-15.jpg?itok=MzNVNGKA&timestamp=1552654693'
   }
+
 ]
 
 export default listingsData;
